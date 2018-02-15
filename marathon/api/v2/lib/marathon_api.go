@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/dcos/dcos-sdk-go/client"
+	"github.com/PTC-GLOBAL/dcos-sdk-go/client"
 )
 
 

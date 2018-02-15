@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"log"
 	"encoding/json"
-	"github.com/dcos/dcos-sdk-go/client"
+	"github.com/PTC-GLOBAL/dcos-sdk-go/client"
 	"fmt"
 	"bytes"
 	"io/ioutil"
