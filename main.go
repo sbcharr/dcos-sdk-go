@@ -4,8 +4,8 @@ package main
 
 import (
 	"log"
-	auth "github.com/dcos/dcos-sdk-go/auth/api/v1"
-	marathon "github.com/dcos/dcos-sdk-go/marathon/api/v2/lib"
+	auth "github.com/PTC-GLOBAL/dcos-sdk-go/auth/api/v1"
+	marathon "github.com/PTC-GLOBAL/dcos-sdk-go/marathon/api/v2/lib"
 )
 
 type Service struct {

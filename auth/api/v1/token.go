@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"fmt"
 
-	"github.com/dcos/dcos-sdk-go/client"
+	"github.com/PTC-GLOBAL/dcos-sdk-go/client"
 )
 
 type Credential struct {
